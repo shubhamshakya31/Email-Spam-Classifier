@@ -19,10 +19,5 @@ This project is an email classification system designed to distinguish between s
 - **TF-IDF Vectorization**: Converts textual data into numerical vectors for model input.
 - **Naive Bayes Classifier**: A probabilistic model used for classification tasks, with MultinomialNB achieving the best results.
 
-## Getting Started
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/email-spam-ham-classifier.git
-   cd email-spam-ham-classifier
 
